@@ -75,3 +75,7 @@ In case you want to publish your website to your github pages as <i>username.git
 | ----- | :-----------------------------------------------------------------------------------------: |
 | light | ![light](https://raw.githubusercontent.com/YashMeh/panda-portfolio/master/images/light.png) |
 | dark  |  ![dark](https://raw.githubusercontent.com/YashMeh/panda-portfolio/master/images/dark.png)  |
+
+
+
+Check automerging
